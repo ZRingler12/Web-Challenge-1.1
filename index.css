@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Fraunces";
+    src: url(https://fonts.google.com/specimen/Fraunces), format(Fraunces);
+    font-weight: 500, 700;}
+
+body {
+    font-size: 14px;
+    font-family: Fraunces;
+ } 
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    color: hsl(256, 45%, 44%);
+}
